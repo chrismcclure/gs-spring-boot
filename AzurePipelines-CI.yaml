@@ -1,6 +1,6 @@
 pool:
   vmImage: ubuntu-latest # Hosted Ubuntu 1604
-  demands: maven
+  # demands: maven
 
 steps:
 - task: Maven@3
